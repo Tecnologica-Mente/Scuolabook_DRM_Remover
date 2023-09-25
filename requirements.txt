@@ -1,0 +1,4 @@
+PyMuPDF
+bs4
+requests
+progressbar
